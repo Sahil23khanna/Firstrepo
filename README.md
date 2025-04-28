@@ -1,5 +1,3 @@
 # Firstrepo
-This is my first repo <br>
-<h4> Mr. Sahil Khanna </h4>
+This is my first repo. I made this to learn about Git and Github <br>
 
-<p>hello lovely people</p>
